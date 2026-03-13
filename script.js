@@ -3,7 +3,7 @@ const cafe =[
         nome:"espresso",
         descricao:"cafe concentrado y aromatico",
         preco:"$3.50",
-        img:"assents/espresso.jpg",
+        img:"assents/produtos/espresso.jpg",
     
     }
 ,
@@ -20,7 +20,7 @@ const cafe =[
         nome:"cafe helado",
         descricao:"refrescante cafe frio con hielo",
         preco:"$5.00",
-        img:"assents/cafehelado.jpg",
+        img:"assents/produtios/cafehelado.jpg",
     }
        
     
@@ -62,8 +62,26 @@ const comida =[
         nome: "Sándwich de Pavo",
         descricao: "Sándwich fresco con pavo y vegetales",
         preco:"$6.50",
-        img: "assents/sandwichdepavo.jpg"
+        img: "assents/sandwichdepavo.jpg",
     }
+    ,
+    {
+        nome: "Macarrones",
+        descricao: "Pasta con salsa de tomate y especias",
+        preco: "$6.50",
+         img: "assents/assents/lasanha.jpg",
+
+    }
+    ,
+    {
+         nome: "Lasaña",
+         descricao: "Capas de pasta con carne y queso gratinado",
+         preco: "$8.00",
+        img: "assets/produtos/lasanha.png",
+    }
+
+
+
 ]
 
 
